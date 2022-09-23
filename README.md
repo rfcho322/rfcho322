@@ -1,5 +1,5 @@
-### Hi there 👋
-
+###
+<h3>Hi there 👋</h3>
 <!--
 **rfcho322/rfcho322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rfcho322)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rfcho322&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
