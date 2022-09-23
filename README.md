@@ -1,4 +1,3 @@
-###
 <h3>Hi there 👋</h3>
 <!--
 **rfcho322/rfcho322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
