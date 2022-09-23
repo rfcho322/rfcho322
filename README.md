@@ -11,6 +11,8 @@
 <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/Bootstrap-8E49B5.svg?style=flat-square&logo=bootstrap-logo"/></a>
 <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/HTML-DE6935.svg?style=flat-square&logo=html-logo"/></a>
 <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/CSS-3A61F9.svg?style=flat-square&logo=css-logo"/></a>
+  
+<img src="https://media.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif" width="250" />
 
 </div>
 
