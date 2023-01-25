@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔥 Streak Stats
+<h1 align="center"> 🔥 Streak Stats </h1>
 <div align="center"> 
   <img src="https://streak-stats.demolab.com?user=rfcho322&theme=gruvbox&hide_border=true"/> 
 </div>
