@@ -4,7 +4,7 @@
 <h1>Hi there Ryan here <img src="https://media.giphy.com/media/pEuD18F5xjR9SNVmYz/giphy.gif" width="100"/></h1>
 
 <!--HEADING DESCRIPTION-->
-<a href="https://github.com/search?q=rfcho322"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=30&pause=3000&color=F9BC2F&center=true&width=700&lines=Full-stack+web+developer;Freelancer;Always+curious%2C+learning+never+stops"/></a>
+<a href="https://github.com/search?q=rfcho322"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=30&pause=3000&color=F9BC2F&center=true&width=700&lines=Full-stack+web+developer;Freelancer;Always+curious%2C+learning+never+stops;Coffee+lover"/></a>
   
 <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/PHP-7571B4.svg?style=flat-square&logo=php-white"/></a>
 <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/MYSQL-007A84.svg?style=flat-square&logo=mysql-icon"/></a>
