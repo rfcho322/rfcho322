@@ -1,7 +1,7 @@
 <!--HEADING NAME-->
 <div align="center">
 
-<h1>Hi there Ryan here <img src="https://media.giphy.com/media/pEuD18F5xjR9SNVmYz/giphy.gif" width="100"/></h1>
+<h1>Hi there Ryan here <img src="https://media.giphy.com/media/eNwO33cDf7H60uqErv/giphy.gif" width="100" height="100"/></h1>
 
 <!--HEADING DESCRIPTION-->
 <a href="https://github.com/search?q=rfcho322"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=30&pause=3000&color=F9BC2F&center=true&width=700&lines=Full-stack+web+developer;Freelancer;Always+curious%2C+learning+never+stops;Coffee+lover"/></a>
