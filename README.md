@@ -20,6 +20,8 @@
 <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/jQuery-FFFFFF?style=flat-square&logo=jquery&logoColor=blue"/></a>
 <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/MongoDb-001C29?style=flat-square&logo=mongodb&logoColor=green"/></a>
 <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/SASS-C5669C?style=flat-square&logo=sass&logoColor=white"/></a>
+<a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3A61F9?style=flat-square&logo=typescript&logoColor=white"/></a>
+<a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/Zod-FFFFFF?style=flat-square&logo=zod&logoColor=blue"/></a>
   
 <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="350" />
 
