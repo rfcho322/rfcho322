@@ -4,9 +4,12 @@
 <h1>Hi there Ryan here <img src="https://media.giphy.com/media/eNwO33cDf7H60uqErv/giphy.gif" width="100" height="100"/></h1>
 
 <!--HEADING DESCRIPTION-->
-<a href="https://github.com/search?q=rfcho322"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=30&pause=3000&color=F9BC2F&center=true&width=700&lines=Full-stack+web+developer;Freelancer;Always+curious%2C+learning+never+stops;Coffee+lover"/></a>
-  
+<a href="https://github.com/search?q=rfcho322"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=30&pause=3000&color=F9BC2F&center=true&width=700&lines=Full-Stack+Web+Developer;Freelancer;Always+curious%2C+learning+never+stops;Coffee+Lover"/></a>
+<!--  
 <a href='https://ko-fi.com/rfcho322' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+-->
+<a href="https://ko-fi.com/rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/Buy%20Me%20a%20Coffee-fb7185?style=for-the-badge&logo=kofi&logoColor=white"/></a>
+<a href="https://codepen.io/rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/CodePen-ffffff?style=for-the-badge&logo=codepen&logoColor=black"/></a>
   
 <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="350" />
 
