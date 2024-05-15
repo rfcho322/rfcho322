@@ -45,11 +45,11 @@
 <h2>Databases and Cloud Hosting</h2>
 <p>
   <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/MYSQL-007A84.svg?style=flat-square&logo=mysql-icon"/></a>
-  <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/MongoDb-001C29?style=flat-square&logo=mongodb&logoColor=green"/></a>
+  <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/MongoDb-44403c?style=flat-square&logo=mongodb&logoColor=green"/></a>
   <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-0c4a6e?style=flat-square&logo=postgresql&logoColor=white"/></a>
   <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/SQLite-082f49?style=flat-square&logo=sqlite&logoColor=white"/></a>
-  <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/Prisma-1c1917?style=flat-square&logo=prisma&logoColor=white"/></a>
-  <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/Vercel-1c1917?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/Prisma-44403c?style=flat-square&logo=prisma&logoColor=white"/></a>
+  <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/Vercel-44403c?style=flat-square&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/GitHub%20Pages-0e7490?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/Repl.it-0f172a?style=flat-square&logo=replit&logoColor=orange"/></a>
   <a href="https://github.com/search?q=rfcho322"><img src="https://custom-icon-badges.demolab.com/badge/Render-1c1917?style=flat-square&logo=render&logoColor=teal"/></a>
